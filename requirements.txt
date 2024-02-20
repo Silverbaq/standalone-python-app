@@ -1,0 +1,4 @@
+Flask
+
+pyinstaller
+py2app
